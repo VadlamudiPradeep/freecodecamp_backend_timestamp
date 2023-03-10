@@ -1,0 +1,20 @@
+{
+  "name": "freecodecamp_backend_timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
